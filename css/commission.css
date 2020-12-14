@@ -1,0 +1,31 @@
+.commission {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 2em;
+}
+
+#example {
+  width: 400px;
+  height: 400px;
+  padding: 1em;
+  border-radius: 50px;
+}
+
+h2 {
+  font-family: 'Cedarville Cursive';
+  font-size: 2.5em;
+}
+
+form {
+  margin: 0.25em;
+}
+
+input[type="radio"]{
+  margin: 0.25em;
+}
+
+button {
+  padding: 0.25em;
+  margin: 0.5em;
+}

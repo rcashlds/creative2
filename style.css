@@ -1,0 +1,42 @@
+.wrapper {
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+a {
+  color: black;
+  font-family: 'Julius Sans One';
+}
+
+a:hover {
+  color: grey;
+}
+
+.navbar {
+  justify-content: center;
+}
+
+.footer {
+  display: flex;
+  background-color: #DCDCDC;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.foot-text {
+  padding-top: 40px;
+  font-family: 'Julius Sans One';
+}
+
+#bio-photo {
+  max-width: 80px;
+  max-height: 80px;
+  border-radius: 50%;
+  margin: 2em 1em 1em 1em;
+}

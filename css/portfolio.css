@@ -1,0 +1,15 @@
+.portfolio-grid {
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grid-element {
+  width: 250px;
+  height: 250px;
+  padding: 1em;
+}
